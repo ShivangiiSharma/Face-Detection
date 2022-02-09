@@ -1,4 +1,4 @@
-# Face-Detection-bb
+# Face-Detection
 
 This was made using the dlib library.
 
